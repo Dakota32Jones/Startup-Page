@@ -8,7 +8,7 @@ Built a landing page for a startup that can take in users emails. This allowed m
 
 ## Installation
 
-To use the website just click on this [link!](https://dakota32jones.github.io/Startup-Page/)! 
+To use the website just click on this [link](https://dakota32jones.github.io/Startup-Page/)! 
 
 ## Usage
 
