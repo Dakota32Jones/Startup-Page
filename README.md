@@ -14,11 +14,11 @@ To use the website just click on this [link](https://dakota32jones.github.io/Sta
 
 
     
-    ![Full Screen](./assets/Full-screen.png)
+    ![Full Screen](Full-screen.png)
     
-    ![Responsive Screen](./assets/small-screen.png)
+    ![Responsive Screen](small-screen.png)
     
-    ![Form](./assets/form.png)
+    ![Form](form.png)
     
 
 ## Credits
